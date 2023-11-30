@@ -15,7 +15,7 @@ Flash Text is an app designed to help you memorize text efficiently by displayin
 
 ## 📄 License
 
-This software is licensed under the GNU General Public License (GPL). - see the [license](LICENSE.md) file for more details.
+This software is licensed under the GNU General Public License (GPL). - see the [license file](LICENSE.md) for more details.
 
 #
 Feel free to reach out if you have any questions or suggestions!
