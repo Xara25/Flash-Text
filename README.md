@@ -15,7 +15,7 @@ Flash Text is an app designed to help you memorize text efficiently by displayin
 
 ## 📄 License
 
-This software is under the MIT license. - see the [license file](LICENSE.md) for more details.
+This software is under the MIT license. - see the [license file](LICENSE) for more details.
 
 #
 Feel free to reach out if you have any questions or suggestions!
