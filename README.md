@@ -13,9 +13,9 @@ Flash Text is an app designed to help you memorize text efficiently by displayin
 1. Copy the text you'd like to test yourself on. Then, click 'Next' to begin.
 2. [Include any screenshots or GIFs to demonstrate usage]
 
-## License
+## 📄 License
 
-This project uses PyQt 6, which is licensed under the GNU General Public License (GPL). - see the [LICENSE.md](LICENSE.md) file for details.
+This software is licensed under the GNU General Public License (GPL). - see the [license](LICENSE.md) file for more details.
 .
 .
 .
