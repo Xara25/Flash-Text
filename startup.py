@@ -25,10 +25,11 @@ class Window(QWidget):
         self.center()
 
         self.label = QLabel("Enter Text", self)
-        self.label.setFont(QFont("Arial", 25))
+        self.label.setFont(QFont("Arial", 30))
         self.input = QPlainTextEdit(self)
         self.button = QPushButton("Send", self)
-        self.button.resize(300, 150)
+        self.button.setFixedSize(125, 50)
+        self.button.setFont(QFont("Arial", 20))
         self.button.clicked.connect(self.Clicked)
 
         self.vbox = QVBoxLayout()
